@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel Hola</title>
+        <title>AYD2</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5 ABCD</div>
+                <div class="title">[AYD2]GRUPO 4</div>
   <br>
                 <br>
                 <table class="table table-hover">
